@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Imamal
 
-<!--
-**mamoet/mamoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Geophysicist | Educator | Researcher**  
 
-Here are some ideas to get you started:
+I’m a passionate **geophysicist** with a deep interest in **near-surface geophysics, data inversion, and signal processing**. My journey started with curiosity and grew into a rewarding career, culminating in a **Ph.D. in Applied Geophysics** 🎓 from the **University of Cologne (magna cum laude)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 My doctoral research focused on the **Controlled Source Radiomagnetotelluric (CSRMT) method**, revealing new insights into subsurface structures.  
+
+---
+
+## 🎓 Academic & Teaching  
+👨‍🏫 Currently, I’m a **lecturer at UIN SGD Bandung**, where I love mentoring students and exploring new ways to make geophysics **more accessible and innovative**. I enjoy helping students unlock the potential of geophysical tools and techniques.  
+
+---
+
+## 🛠️ Technical Skills  
+💡 I work with:  
+- 🐍 **Python** | 📊 **MATLAB**  
+- 🔍 **Geophysical Modeling & Inversion**  
+- 🛰 **Signal Processing & Data Analysis**  
+- 🌎 Open-source **Geophysical Tools & Libraries**  
+
+---
+
+## 🚀 Let's Connect!  
+I'm always open to discussions on **geophysics, coding, and research collaborations**. Feel free to reach out!  
+
+- 🔗 **Google Scholar:** https://scholar.google.com/citations?user=xhZGp-UAAAAJ&hl=en
+- 💼 **LinkedIn:** [linkedin.com/in/imamal-muttaqien](https://www.linkedin.com/in/imamal-muttaqien/)  
